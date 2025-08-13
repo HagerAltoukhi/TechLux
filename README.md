@@ -16,4 +16,5 @@ Built using **HTML**, **CSS**, and **JavaScript** with a clean and user-friendly
 ## How to Use
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/techlux.git
+   git clone https://github.com/HagerAltoukhi/techlux.git
+
